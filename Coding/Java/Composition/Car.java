@@ -1,4 +1,4 @@
-package composition;
+package Composition;
 
 public class Car {
 

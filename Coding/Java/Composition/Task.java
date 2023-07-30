@@ -1,4 +1,4 @@
-package composition;
+package Composition;
 
 import java.util.HashMap;
 import java.util.Map;

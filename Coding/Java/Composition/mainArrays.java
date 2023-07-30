@@ -1,7 +1,4 @@
-package composition;
-
-import java.util.ArrayList;
-import java.util.List;
+package Composition;
 
 public class mainArrays {
     public static void main(String[] args) {
